@@ -1,0 +1,1 @@
+{"first_name":"Seda","last_name":"Voskanyan","age":19,"tumo_student":true}
